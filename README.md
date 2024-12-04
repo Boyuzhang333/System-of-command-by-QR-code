@@ -1,0 +1,1 @@
+# System-of-command-by-QR-code
